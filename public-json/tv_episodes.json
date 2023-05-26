@@ -1,77 +1,461 @@
 {
   "page": 1,
   "results": [
-      {
-        "air_date": "2023-05-04",
-        "episode_number": 72,
-        "id": 4376340,
-        "name": "Sacrifice",
-        "overview": "While Lala remains tight-lipped despite the torture Ador had put her through, Mila scrambles to her feet to save her captured ally. As problems pile up for the Fieros, Olga urges Leona to go with her and leave everything behind.",
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 1,
-        "show_id": 202250,
-        "still_path": null,
-        "vote_average": 8,
-        "vote_count": 1,
-      },
-      {
-        "id": 4398090,
-        "name": "Episode 15",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2023-05-26",
-        "episode_number": 15,
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 2,
-        "show_id": 202250,
-        "still_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg"
-      },
-      {
-        "id": 4453613,
-        "name": "Episode 138",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2023-05-26",
-        "episode_number": 138,
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 211128,
-        "still_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg"
-      },
-      {
-        "id": 4463416,
-        "name": "Episode 205",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2023-05-26",
-        "episode_number": 205,
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 213713,
-        "still_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg"
-      },
-      {
-        "id": 4453603,
-        "name": "Episode 73",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2023-05-26",
-        "episode_number": 73,
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 215803,
-        "still_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg"
-      }
-    ],
+    {
+      "backdrop_path": "/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
+      "first_air_date": "2023-01-23",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "id": 202250,
+      "name": "Dirty Linen",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Dirty Linen",
+      "overview": "To exact vengeance, a young woman infiltrates the household of an influential family as a housemaid to expose their dirty secrets. However, love will get in the way of her revenge plot.",
+      "popularity": 2945.581,
+      "poster_path": "/aoAZgnmMzY9vVy9VWnO3U5PZENh.jpg",
+      "vote_average": 4.9,
+      "vote_count": 17,
+      "episode_air_date": "2023-05-26",
+      "episode_number": 205,
+      "episode_runtime": 22
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2005-09-05",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 36361,
+      "name": "Ulice",
+      "origin_country": [
+        "CZ"
+      ],
+      "original_language": "cs",
+      "original_name": "Ulice",
+      "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+      "popularity": 2816.815,
+      "poster_path": "/3ayWL13P1HeRnyVL9lU9flOdZjq.jpg",
+      "vote_average": 2.8,
+      "vote_count": 12,
+      "episode_air_date": "2023-05-27",
+      "episode_number": 205,
+      "episode_runtime": 23
+    },
+    {
+      "backdrop_path": "/aWPhMZ0P2DyfWB7k5NXhGHSZHGC.jpg",
+      "first_air_date": "2023-05-08",
+      "genre_ids": [
+        18,
+        80,
+        10766
+      ],
+      "id": 209265,
+      "name": "Terra e Paixão",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Terra e Paixão",
+      "overview": "",
+      "popularity": 2350.903,
+      "poster_path": "/voaKRrYExZNkf1E4FZExU7fTd8w.jpg",
+      "vote_average": 0,
+      "vote_count": 0,
+      "episode_air_date": "2023-05-28",
+      "episode_number": 206,
+      "episode_runtime": 24
+    },
+    {
+      "backdrop_path": "/69Jblm3seQgiPuPQMrJqg9Nxhaz.jpg",
+      "first_air_date": "2011-01-10",
+      "genre_ids": [
+        10763,
+        10767
+      ],
+      "id": 101463,
+      "name": "Al rojo vivo",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Al rojo vivo",
+      "overview": "",
+      "popularity": 2308.515,
+      "poster_path": "/ag6PmoBxkF2s1uY3An618NCEt3g.jpg",
+      "vote_average": 3.3,
+      "vote_count": 10,
+      "episode_air_date": "2023-05-28",
+      "episode_number": 207,
+      "episode_runtime": 25
+    },
+    {
+      "backdrop_path": "/t2rAdgjSh0WYbXzdOB5zTDqzdCI.jpg",
+      "first_air_date": "2022-11-02",
+      "genre_ids": [
+        18
+      ],
+      "id": 213713,
+      "name": "Faltu",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Faltu",
+      "overview": "What's in a name? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+      "popularity": 2226.565,
+      "poster_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+      "vote_average": 4.4,
+      "vote_count": 23,
+      "episode_air_date": "2023-05-27",
+      "episode_number": 28,
+      "episode_runtime": 48
+    },
+    {
+      "backdrop_path": "/3n2TjKw3HrwDqgVgcynvantOfS3.jpg",
+      "first_air_date": "2023-01-04",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 215103,
+      "name": "Teri Meri Doriyaan",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "तेरी मेरी डोरियाँ",
+      "overview": "It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues.",
+      "popularity": 2207.805,
+      "poster_path": "/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+      "vote_average": 4.5,
+      "vote_count": 8,
+      "episode_air_date": "2023-05-20",
+      "episode_number": 27,
+      "episode_runtime": 43
+    },
+    {
+      "backdrop_path": "/lcSvkJ2Rob3ICIOCUJahw3kgSYZ.jpg",
+      "first_air_date": "2023-03-14",
+      "genre_ids": [
+        18
+      ],
+      "id": 216390,
+      "name": "Woman in a Veil",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "비밀의 여자",
+      "overview": "Jung Gyul Wool loses her vision and ability to walk because of her materialistic husband and his mistress. Despite her shortcomings, she hatches a plot to seek revenge.",
+      "popularity": 2154.617,
+      "poster_path": "/5ERr09UrnVm0hdXBeefNVtQMxI.jpg",
+      "vote_average": 4.7,
+      "vote_count": 6,
+      "episode_air_date": "2023-05-14",
+      "episode_number": 43,
+      "episode_runtime": 32
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2022-11-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 215315,
+      "name": "Rabb Se Hai Dua",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "रब्ब से है दुआ",
+      "overview": "Dua and her husband are a perfect married couple in the eyes of their family. However, Dua’s life turns upside down when her husband seeks her permission to marry another woman.",
+      "popularity": 2148.385,
+      "poster_path": "/6ikbefd7VeopbBuGgioYMNU5bQj.jpg",
+      "vote_average": 5,
+      "vote_count": 3,
+      "episode_air_date": "2023-05-20",
+      "episode_number": 24,
+      "episode_runtime": 19
+    },
+    {
+      "backdrop_path": "/1Xm0WqoT0DjZm5JdG2V6YFabrOz.jpg",
+      "first_air_date": "2023-02-13",
+      "genre_ids": [
+        10759,
+        35,
+        18
+      ],
+      "id": 215803,
+      "name": "Batang Quiapo",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Batang Quiapo",
+      "overview": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
+      "popularity": 2101.396,
+      "poster_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
+      "vote_average": 5.5,
+      "vote_count": 16,
+      "episode_air_date": "2023-05-18",
+      "episode_number": 20,
+      "episode_runtime": 32
+    },
+    {
+      "backdrop_path": "/peqIR6V2zZdzp3MEZBCwtqw1Bf2.jpg",
+      "first_air_date": "2022-11-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 215426,
+      "name": "Pyaar Ke Saat Vachan - Dharam Patni",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Pyaar Ke Saat Vachan - Dharam Patni",
+      "overview": "What will happen when Ravi Randhawa, a business tycoon, meets Pratiksha Parekh, a simple school teacher? Will sparks fly? Or is there no happy-ever-after for the opposite personalities?",
+      "popularity": 2136.351,
+      "poster_path": "/fMR23wg4yNsTEhqyYIfvzDAOEae.jpg",
+      "vote_average": 6,
+      "vote_count": 2,
+      "episode_air_date": "2023-05-07",
+      "episode_number": 24,
+      "episode_runtime": 38
+    },
+    {
+      "backdrop_path": "/aqJPC5GXuiVbedajRmdOVMCb7mC.jpg",
+      "first_air_date": "2022-12-05",
+      "genre_ids": [
+        18,
+        10751,
+        10766
+      ],
+      "id": 215902,
+      "name": "Katha Ankahee",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "कथा अनकही",
+      "overview": "Katha, a single parent, is in need of funds for her son's medical treatment. She comes across Viaan, who offers help but his conditions put her in an awkward situation.",
+      "popularity": 2118.643,
+      "poster_path": "/uhXU0SMPMlemKGHmwbldM60qqmW.jpg",
+      "vote_average": 9.5,
+      "vote_count": 2,
+      "episode_air_date": "2023-05-21",
+      "episode_number": 34,
+      "episode_runtime": 58
+    },
+    {
+      "backdrop_path": "/1CWhCGpl3sx92OATm3tELtLqBdX.jpg",
+      "first_air_date": "2023-02-20",
+      "genre_ids": [
+        10766
+      ],
+      "id": 220992,
+      "name": "Invincible Love",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "El Amor Invencible",
+      "overview": "After losing all her loved ones fifteen years ago and believing her babies were killed at the hands of the father of her first love, Leona Bravo (Angelique Boyer) embarks on a journey of justice against all those who hurt her. In this process, Leona discovers that her children are actually alive and is reunited with an old friend with whom she finds true love. As a result, she will be torn between her desire for justice and rebuilding her bond with her two children, as well as regaining her faith in love.",
+      "popularity": 2103.085,
+      "poster_path": "/i6zwenRLASRRKTklSW4r1IAiLKP.jpg",
+      "vote_average": 4.6,
+      "vote_count": 4,
+      "episode_air_date": "2023-05-16",
+      "episode_number": 27,
+      "episode_runtime": 29
+    },
+    {
+      "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+      "first_air_date": "2023-01-09",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 218145,
+      "name": "Mama na prenájom",
+      "origin_country": [
+        "SK"
+      ],
+      "original_language": "sk",
+      "original_name": "Mama na prenájom",
+      "overview": "",
+      "popularity": 2028.384,
+      "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+      "vote_average": 8.5,
+      "vote_count": 4,
+      "episode_air_date": "2023-05-17",
+      "episode_number": 13,
+      "episode_runtime": 25
+    },
+    {
+      "backdrop_path": "/w9uM2biYWGqwEpvIYs8CXRoAdVB.jpg",
+      "first_air_date": "2023-02-26",
+      "genre_ids": [
+        10764,
+        10767
+      ],
+      "id": 221249,
+      "name": "O Triângulo",
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "O Triângulo",
+      "overview": "A series of physical, intellectual, emotional or psychological tests will test anonymous competitors, 24/7. In the end, only one will be victorious. Everything can change... At any time... When you least expect it!",
+      "popularity": 1921.814,
+      "poster_path": "/A2LE5B1IInR5h98OUNzyj9aQiIS.jpg",
+      "vote_average": 1.2,
+      "vote_count": 3,
+      "episode_air_date": "2023-05-05",
+      "episode_number": 15,
+      "episode_runtime": 43
+    },
+    {
+      "backdrop_path": "/jWYzdSv85nncRxfDwYSQKKlnuhG.jpg",
+      "first_air_date": "2023-03-09",
+      "genre_ids": [
+        18
+      ],
+      "id": 221949,
+      "name": "Chashni",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "चाशनी",
+      "overview": "An untoward incident mars the loving relationship between two sisters- Chandni and Roshni. Years later, fate brings them face to face only to find out that they are daughter-in-law and mother-in-law for each other. Thus, begins a typical saas-bahu saga.",
+      "popularity": 1890.906,
+      "poster_path": "/qz3mN7SCTVskkDIBwceV4FXv2VC.jpg",
+      "vote_average": 4.4,
+      "vote_count": 4,
+      "episode_air_date": "2023-05-17",
+      "episode_number": 16,
+      "episode_runtime": 30
+    },
+    {
+      "backdrop_path": "/xkiv3e1daoqil5MRJitCJcwUgk2.jpg",
+      "first_air_date": "2021-10-31",
+      "genre_ids": [
+        10764
+      ],
+      "id": 114294,
+      "name": "Judy Justice",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Judy Justice",
+      "overview": "The Honorable Judy Sheindlin, retired Judge of the Manhattan family Court, brings her signature blend of sharp wit and wisdom, hilarious candor and unwavering honesty that has made her America’s favorite judge for over 25 years, as she presides over real cases, arbitrates binding decisions and delivers what only she can: “Judy Justice.”",
+      "popularity": 1829.043,
+      "poster_path": "/4E8Rb9vPbixxC0ZdzSkvE5fpeQa.jpg",
+      "vote_average": 4.3,
+      "vote_count": 12,
+      "episode_air_date": "2023-05-24",
+      "episode_number": 67,
+      "episode_runtime": 32
+    },
+    {
+      "backdrop_path": "/zrv9dK9FQepCS2KCNJ04LYsjsDd.jpg",
+      "first_air_date": "2023-04-02",
+      "genre_ids": [
+        10764
+      ],
+      "id": 210479,
+      "name": "Survivor Québec",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Survivor Québec",
+      "overview": "",
+      "popularity": 986.403,
+      "poster_path": "/cuVZay78P1WkBet12KF8tRJYtp4.jpg",
+      "vote_average": 8,
+      "vote_count": 1,
+      "episode_air_date": "2023-05-16",
+      "episode_number": 89,
+      "episode_runtime": 38
+    },
+    {
+      "backdrop_path": "/xYiI6QEZvx8Z4La1oHvApyZHpOU.jpg",
+      "first_air_date": "2023-01-16",
+      "genre_ids": [
+        10766,
+        35
+      ],
+      "id": 209117,
+      "name": "Never Give Up",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Vai na Fé",
+      "overview": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+      "popularity": 1644.064,
+      "poster_path": "/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+      "vote_average": 7.9,
+      "vote_count": 10,
+      "episode_air_date": "2023-05-16",
+      "episode_number": 56,
+      "episode_runtime": 25
+    },
+    {
+      "backdrop_path": "/3FLHePl9Y3n4BidLVjIA9qSRDOE.jpg",
+      "first_air_date": "2021-08-03",
+      "genre_ids": [
+        10766
+      ],
+      "id": 130542,
+      "name": "Bhagya Lakshmi",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Bhagya Lakshmi",
+      "overview": "Hailing from a middle-class family, Lakshmi’s life is upended when she realises that her marriage to Rishi Oberoi, an industrialist’s son, is a sham to keep his death at bay.",
+      "popularity": 1585.145,
+      "poster_path": "/eVaGfVPA85AUrCAQoOLb0kY2SZA.jpg",
+      "vote_average": 4.9,
+      "vote_count": 38,
+      "episode_air_date": "2023-05-18",
+      "episode_number": 34,
+      "episode_runtime": 89
+    },
+    {
+      "backdrop_path": "/tio0dduiKFPjOEAf9iPLb9v9MNZ.jpg",
+      "first_air_date": "2022-11-14",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 211128,
+      "name": "The Iron Heart",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "The Iron Heart",
+      "overview": "An undercover agent goes on a dangerous mission to bring down a crime ring. Fueled by a bitter and painful past, he along with his allies faces the grueling task that will challenge his resolve and strength.",
+      "popularity": 1563.168,
+      "poster_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+      "vote_average": 6.5,
+      "vote_count": 6,
+      "episode_air_date": "2023-05-30",
+      "episode_number": 32,
+      "episode_runtime": 25
+    }
+  ],
   "total_pages": 1,
-  "total_results": 1
+  "total_results": 20
 }
