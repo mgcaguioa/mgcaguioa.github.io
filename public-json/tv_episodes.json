@@ -1,22 +1,77 @@
 {
   "page": 1,
   "results": [
-    {
-      "air_date": "2023-05-04",
-      "episode_number": 72,
-      "id": 4376340,
-      "name": "Sacrifice",
-      "overview": "While Lala remains tight-lipped despite the torture Ador had put her through, Mila scrambles to her feet to save her captured ally. As problems pile up for the Fieros, Olga urges Leona to go with her and leave everything behind.",
-      "production_code": "",
-      "runtime": 22,
-      "season_number": 1,
-      "show_id": 202250,
-      "still_path": null,
-      "vote_average": 8,
-      "vote_count": 1,
-      "rating": 8
-    }
-  ],
+      {
+        "air_date": "2023-05-04",
+        "episode_number": 72,
+        "id": 4376340,
+        "name": "Sacrifice",
+        "overview": "While Lala remains tight-lipped despite the torture Ador had put her through, Mila scrambles to her feet to save her captured ally. As problems pile up for the Fieros, Olga urges Leona to go with her and leave everything behind.",
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 1,
+        "show_id": 202250,
+        "still_path": null,
+        "vote_average": 8,
+        "vote_count": 1,
+      },
+      {
+        "id": 4398090,
+        "name": "Episode 15",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-26",
+        "episode_number": 15,
+        "production_code": "",
+        "runtime": 22,
+        "season_number": 2,
+        "show_id": 202250,
+        "still_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg"
+      },
+      {
+        "id": 4453613,
+        "name": "Episode 138",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-26",
+        "episode_number": 138,
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 211128,
+        "still_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg"
+      },
+      {
+        "id": 4463416,
+        "name": "Episode 205",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-26",
+        "episode_number": 205,
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 213713,
+        "still_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg"
+      },
+      {
+        "id": 4453603,
+        "name": "Episode 73",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2023-05-26",
+        "episode_number": 73,
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 215803,
+        "still_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg"
+      }
+    ],
   "total_pages": 1,
   "total_results": 1
 }
